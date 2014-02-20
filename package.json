@@ -1,0 +1,10 @@
+{
+	"name" : "UDIDProtectedCydiaRepo",
+	"description" : "Cydia repo with optional UDID protection.",
+	"private" : true,
+	"version" : "0.0.9",
+	"dependencies" :
+	{
+		"express" : "*"
+	}
+}
